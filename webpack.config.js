@@ -43,7 +43,7 @@ module.exports = {
     plugins: [
         new CopyWebpackPlugin([
             {
-                from: './src/static/',
+                from: './src/styles/',
                 to: './static/',
             },
         ]),
