@@ -5,6 +5,11 @@
 
 @import 'status-bar.css';
 @import 'header.css';
+@import 'nav.css';
+
+* {
+    box-sizing: border-box;
+}
 
 body {
     background-color: #fff;
@@ -15,4 +20,8 @@ body {
 
 a {
     color: inherit;
+}
+
+img {
+    width: 30%;
 }
