@@ -1,0 +1,18 @@
+.friend {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.friend .friend__avatar {
+    margin-right: 15px;
+}
+
+.friend .friend___column {
+    display: flex;
+    align-items: center;
+}
+
+.friend___column .friend__content {
+
+}
