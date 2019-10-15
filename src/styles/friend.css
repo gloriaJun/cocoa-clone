@@ -13,6 +13,29 @@
     align-items: center;
 }
 
-.friend___column .friend__content {
+.friend__content {
+    display: block;
+}
 
+.friend__content .friend__name {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.friend .chat__timestamp {
+    opacity: .6;
+    font-size: .9rem;
+}
+
+.friend__content .friend__status,
+.friend__content .friend__bottom-text {
+    opacity: .6;
+}
+
+.friend__content .friend__status {
+    font-size: .75rem;
+}
+
+.friend__content .friend__bottom-text {
+    font-size: .9rem;
 }
