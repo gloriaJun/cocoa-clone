@@ -8,6 +8,29 @@
     margin-right: 15px;
 }
 
+.friend .friend__now-listening {
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+    border-radius: 15px;
+    border: 1px solid #2ed573;
+    font-size: .8rem;
+    max-width: 160px;
+}
+
+.friend .friend__now-listening i {
+    color: #2ed573;
+    padding-left: 5px;
+    font-size: .75rem;
+}
+
+.friend .friend__now-listening span {
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    opacity: .8;
+}
+
 .friend .friend___column {
     display: flex;
     align-items: center;
