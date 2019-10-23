@@ -2,6 +2,8 @@
 
 yarn.lock
 
+*.log
+
 /node_modules
 /dist
 .idea/
