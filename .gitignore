@@ -1,7 +1,26 @@
 .DS_Store
 
-yarn.lock
-
-/node_modules
-/dist
+### ide ###
 .idea/
+
+### package module ###
+/node_modules
+
+### yarn ###
+.yarn/*
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+# if you want to unused Zero-Install
+.pnp.*
+yarn.lock
+# if you want to used Zero-Install
+#!.yarn/cache
+
+### output ###
+/dist
+
+### logs ###
+*.log
