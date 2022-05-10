@@ -15,9 +15,12 @@
 
 ## References
 
-### cocoa-clone 강좌
+- ['코코아톡 클론 코딩' 강좌](https://nomadcoders.co/kokoa-clone/lobby)
 
-- [Lecture Link - 코코아톡 클론 코딩](https://academy.nomadcoders.co/courses/enrolled/203015)
+### VanillaJS를 이용하여 SPA 구성을 위해 참고한 Site
+
+- [Vanilla JS에서 SPA 라우팅 시스템 구현하기](https://kdydesign.github.io/2020/10/06/spa-route-tutorial/)
+- [Yarn berry에서 React + Jest + Cypress + TypeScript + Github Actions CI/CD를 세팅해보자](https://haranglog.tistory.com/28)
 
 ### VanillaJS를 이용하여 SPA 구성을 위해 참고한 Site
 
@@ -26,21 +29,14 @@
 
 - https://github.com/zathio/vanilla-spa
 - https://github.com/MichaelCurrin/single-page-app-vanilla-js
-- [Vanilla JS에서 SPA 라우팅 시스템 구현하기](https://kdydesign.github.io/2020/10/06/spa-route-tutorial/)
+- https://velopert.com/1492
+- https://kdydesign.github.io/2020/10/06/spa-route-tutorial/
+- https://intrepidgeeks.com/tutorial/use-vanilla-js-to-realize-spa-bulletin-board
+
+- dotenv-webpack
+  - https://velog.io/@bepyan/VanillaJS-webpack5-env
 
 ### VanillaJS를 이용한 SPA 구성
 
 - [Building a Single Page App without frameworks](https://dev.to/dcodeyt/building-a-single-page-app-without-frameworks-hl9)
 - [Vanilla JS로 SPA 게시판 구현해보기!](https://intrepidgeeks.com/tutorial/use-vanilla-js-to-realize-spa-bulletin-board)
-
-### yarn3
-
-- [Yarn berry에서 React + Jest + Cypress + TypeScript + Github Actions CI/CD를 세팅해보자](https://haranglog.tistory.com/28)
-
-### webpack
-
-- https://onlydev.tistory.com/111
-
-### build
-
-- https://vitejs.dev/guide/static-deploy.html

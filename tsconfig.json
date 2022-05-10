@@ -16,6 +16,9 @@
 
     /* Modules */
     "module": "esnext" /* 모듈을 위한 코드 생성 설정: 'none', 'commonjs', 'amd', 'system', 'umd', 'es2015', 'es2020', or 'ESNext'. */,
+    "declaration": true /* Generates corresponding '.d.ts' file. */,
+    "emitDeclarationOnly": true,
+    "isolatedModules": true /* Transpile each file as a separate module (similar to 'ts.transpileModule'). */,
     "moduleResolution": "node" /* 모듈 해석 방법 설정: 'node' (Node.js) 혹은 'classic' (TypeScript pre-1.6). */,
     "baseUrl": "./" /* non-absolute한 모듈 이름을 처리할 기준 디렉토리 */,
     // "paths": {}, /* 'baseUrl'를 기준으로 불러올 모듈의 위치를 재지정하는 엔트리 시리즈 */
