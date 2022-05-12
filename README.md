@@ -2,7 +2,10 @@
 
 노마드코더의 `코코아톡 클론 코딩` 강좌를 듣고 만들어진 앱을 VanillaJS를 이용하여 SPA 구조로 만들어본 App
 
-> 프로젝트 구성 과정은 [xxxx](~~~)을 참고
+- SPA 프로젝트 구성 과정은 아래의 링크를 참고
+  - [VanillaJS로 SPA 환경 구축하기 - Step1: Prepare](https://gtilog.netlify.app/devLogs/javascript/vanillajs/spa-webpack5/20220504-vanillajs-spa-prepare)
+  - [VanillaJS로 SPA 환경 구축하기 - Step2: TypeScript](https://gtilog.netlify.app/devLogs/javascript/vanillajs/spa-webpack5/20220506-vanillajs-spa-typescript)
+  - [VanillaJS로 SPA 환경 구축하기 - Step3: Webpack5](https://gtilog.netlify.app/devLogs/javascript/vanillajs/spa-webpack5/20220512-vanillajs-spa-webpack5)
 
 ## Tech Spec
 
