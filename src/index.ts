@@ -1,8 +1,14 @@
-import "./styles/index.css";
+import './styles/index.css';
 
-document.querySelector("#app").innerHTML = "<h1>Welcome!! Hello! World!!!</h1>";
+const app = document.querySelector('#app');
 
-console.log("I'm console.");
+if (app) {
+  app.innerHTML = '<h1>Welcome!! Hello! World!!!</h1>';
+}
+
+console.log(
+  "I'm console.I'm console.I'm console.I'm console.I'm console.I'm console.I'm console.I'm console.I'm console.I'm console.I'm console.I'm console.",
+);
 
 // inner.js
 export const a = 1;
