@@ -20,6 +20,8 @@
     "@babel/core": "^7.17.10",
     "@babel/preset-env": "^7.17.10",
     "@babel/preset-typescript": "^7.16.7",
+    "@commitlint/cli": "^17.0.0",
+    "@commitlint/config-conventional": "^17.0.0",
     "@types/babel__core": "^7",
     "@types/babel__preset-env": "^7",
     "@types/eslint": "^8",
